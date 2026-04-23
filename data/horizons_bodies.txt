@@ -1,0 +1,208 @@
+Results
+*******************************************************************************
+ Revised: Jan 26, 2022            Enceladus / (Saturn)                      602
+                           http://ssd.jpl.nasa.gov/?sat_phys_par
+                             http://ssd.jpl.nasa.gov/?sat_elem
+
+ SATELLITE PHYSICAL PROPERTIES:
+  Mean Radius (km)        = 252.3   +- 0.6   Density (g/cm^3) =  1.606 +- 0.012
+  Mass (10^19 kg)         =  10.805          Geometric Albedo =  1.04
+  GM (km^3/s^2)           =   7.210367       V(1,0)           =  +2.2
+
+ SATELLITE ORBITAL DATA (mean elements referred to local Laplace plane):
+  Semi-major axis, a (km) = 238.04(10^3)    Orbital period    = 1.370218 d
+  Eccentricity, e         = 0.0047          Rotational period = Synchronous
+  Inclination, i  (deg)   = 0.009
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / API_USER Thu Nov 13 03:01:00 2025 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Enceladus (602)                 {source: sat441l}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: GEOCENTRIC
+*******************************************************************************
+Start time      : A.D. 2020-Jan-01 00:00:00.0000 UT      
+Stop  time      : A.D. 2020-Jan-20 00:00:00.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : IAU_ENCELADUS                   {West-longitude positive}
+Target radii    : 256.6, 251.4, 248.3 km          {Equator_a, b, pole_c}       
+Center geodetic : 0.0, 0.0, -6378.137             {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.0, 0.0, 0.0                   {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
+Target primary  : Saturn
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun                             {source: DE441}
+Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
+Atmos refraction: NO (AIRLESS)
+RA format       : HMS
+Time format     : CAL 
+Calendar mode   : Mixed Julian/Gregorian
+EOP file        : eop.251112.p260208                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2025-NOV-12. PREDICTS-> 2026-FEB-07
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+**************************************************************************************************************************
+ Date__(UT)__HR:MN     R.A._____(ICRF)_____DEC    APmag   S-brt             delta      deldot     S-O-T /r     S-T-O  Cnst
+**************************************************************************************************************************
+$$SOE
+ 2020-Jan-01 00:00     19 31 17.82 -21 43 23.6   12.414   6.188  10.9976158660488  12.0566636   11.3819 /T    1.1098   Sgr
+ 2020-Jan-02 00:00     19 31 47.19 -21 42 39.7   12.414   6.188  10.9985361693393  13.8166797   10.4767 /T    1.0264   Sgr
+ 2020-Jan-03 00:00     19 32 20.36 -21 41 43.5   12.414   6.188  11.0013786268322  -3.9507806    9.5866 /T    0.9408   Sgr
+ 2020-Jan-04 00:00     19 32 50.13 -21 40 23.5   12.416   6.188  11.0061322869370  -2.2780916    8.6846 /T    0.8499   Sgr
+ 2020-Jan-05 00:00     19 33 17.05 -21 39 20.6   12.416   6.188  11.0079001497079  14.2138371    7.7711 /T    0.7619   Sgr
+ 2020-Jan-06 00:00     19 33 48.22 -21 38 36.3   12.416   6.188  11.0079314379791   7.1045778    6.8731 /T    0.6781   Sgr
+ 2020-Jan-07 00:00     19 34 21.18 -21 37 29.0   12.416   6.188  11.0108144383849  -8.3958549    5.9830 /T    0.5900   Sgr
+ 2020-Jan-08 00:00     19 34 49.54 -21 36 08.2   12.417   6.188  11.0141184122468   1.5160006    5.0761 /T    0.4984   Sgr
+ 2020-Jan-09 00:00     19 35 17.31 -21 35 12.8   12.417   6.188  11.0138662141699  13.6161099    4.1659 /T    0.4118   Sgr
+ 2020-Jan-10 00:00     19 35 49.91 -21 34 23.4   12.417   6.188  11.0135366664894  -0.5587700    3.2740 /T    0.3270   Sgr
+ 2020-Jan-11 00:00     19 36 21.86 -21 33 06.4   12.417   6.188  11.0161801096384  -9.9398879    2.3810 /T    0.2368   Sgr
+ 2020-Jan-12 00:00     19 36 49.20 -21 31 49.4   12.418   6.188  11.0175707472342   5.5938049    1.4707 /T    0.1458   Sgr
+ 2020-Jan-13 00:00     19 37 18.37 -21 30 59.3   12.417   6.188  11.0156995882699   9.9631718    0.5667 /T    0.0603   Sgr
+ 2020-Jan-14 00:00     19 37 51.69 -21 30 01.3   12.417   6.188  11.0153565806507  -7.6715643    0.3252 /L    0.0256   Sgr
+ 2020-Jan-15 00:00     19 38 22.11 -21 28 37.9   12.418   6.188  11.0172743116732  -8.6163300    1.2222 /L    0.1172   Sgr
+ 2020-Jan-16 00:00     19 38 49.09 -21 27 27.9   12.418   6.188  11.0165110313896   8.3809916    2.1341 /L    0.2066   Sgr
+ 2020-Jan-17 00:00     19 39 19.86 -21 26 39.3   12.416   6.188  11.0135726188776   3.7730675    3.0324 /L    0.2912   Sgr
+ 2020-Jan-18 00:00     19 39 53.01 -21 25 30.9   12.417   6.188  11.0132951498491 -12.8900186    3.9208 /L    0.3790   Sgr
+ 2020-Jan-19 00:00     19 40 21.76 -21 24 05.7   12.417   6.188  11.0139165095771  -5.1984373    4.8252 /L    0.4707   Sgr
+ 2020-Jan-20 00:00     19 40 49.15 -21 23 03.9   12.416   6.188  11.0110510902250   8.6490944    5.7357 /L    0.5581   Sgr
+$$EOE
+**************************************************************************************************************************
+Column meaning:
+ 
+TIME
+
+  Times PRIOR to 1962 are UT1, a mean-solar time closely related to the
+prior but now-deprecated GMT. Times AFTER 1962 are in UTC, the current
+civil or "wall-clock" time-scale. UTC is kept within 0.9 seconds of UT1
+using integer leap-seconds for 1972 and later years.
+
+  Conversion from the internal Barycentric Dynamical Time (TDB) of solar
+system dynamics to the non-uniform civil UT time-scale requested for output
+has not been determined for UTC times after the next July or January 1st.
+Therefore, the last known leap-second is used as a constant over future
+intervals.
+
+  Time tags refer to the UT time-scale conversion from TDB on Earth
+regardless of observer location within the solar system, although clock
+rates may differ due to the local gravity field and no analog to "UT"
+may be defined for that location.
+
+  Any 'b' symbol in the 1st-column denotes a B.C. date. First-column blank
+(" ") denotes an A.D. date.
+ 
+CALENDAR SYSTEM
+
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+
+  NOTE: "n.a." in output means quantity "not available" at the print-time.
+ 
+ 'R.A._____(ICRF)_____DEC' =
+  Astrometric right ascension and declination of the target center with
+respect to the observing site (coordinate origin) in the reference frame of
+the planetary ephemeris (ICRF). Compensated for down-leg light-time delay
+aberration.
+
+  Units: RA  in hours-minutes-seconds of time,    HH MM SS.ff{ffff}
+         DEC in degrees-minutes-seconds of arc,  sDD MN SC.f{ffff}
+ 
+ 'APmag   S-brt' =
+  The targets' approximate apparent visual magnitude and surface brightness.
+For planets and natural satellites, output is restricted to solar phase angles
+covered by observational data. Outside the observed phase angle range, "n.a."
+may be output to avoid extrapolation beyond the limit of model validity.
+
+   For Earth-based observers, the estimated dimming due to atmospheric
+absorption (extinction) is available as a separate, requestable quantity.
+
+   Surface brightness is the average airless visual magnitude of a
+square-arcsecond of the illuminated portion of the apparent disk. It is
+computed only if the target radius is known.
+
+   Units: MAGNITUDES & MAGNITUDES PER SQUARE ARCSECOND
+ 
+ 'delta      deldot' =
+   Apparent range ("delta", light-time aberrated) and range-rate ("delta-dot")
+of the target center relative to the observer. A positive "deldot" means the
+target center is moving away from the observer, negative indicates movement
+toward the observer.  Units: AU and KM/S
+ 
+ 'S-O-T /r' =
+   Sun-Observer-Target apparent SOLAR ELONGATION ANGLE seen from the observers'
+location at print-time.
+
+   The '/r' column provides a code indicating the targets' apparent position
+relative to the Sun in the observers' sky, as described below:
+
+   Case A: For an observing location on the surface of a rotating body, that
+body rotational sense is considered:
+
+    /T indicates target TRAILS Sun   (evening sky: rises and sets AFTER Sun)
+    /L indicates target LEADS Sun    (morning sky: rises and sets BEFORE Sun)
+
+   Case B: For an observing point that does not have a rotational model (such
+as a spacecraft), the "leading" and "trailing" condition is defined by the
+observers' heliocentric ORBITAL motion:
+
+    * If continuing in the observers' current direction of heliocentric
+       motion would encounter the targets' apparent longitude first, followed
+       by the Sun's, the target LEADS the Sun as seen by the observer.
+
+    * If the Sun's apparent longitude would be encountered first, followed
+       by the targets', the target TRAILS the Sun.
+
+   Two other codes can be output:
+    /* indicates observer is Sun-centered    (undefined)
+    /? Target is aligned with Sun center     (no lead or trail)
+
+   The S-O-T solar elongation angle is numerically the minimum separation
+angle of the Sun and target in the sky in any direction. It does NOT indicate
+the amount of separation in the leading or trailing directions, which would
+be defined along the equator of a spherical coordinate system.
+
+   Units: DEGREES
+ 
+ 'S-T-O' =
+   The Sun-Target-Observer angle; the interior vertex angle at target center
+formed by a vector from the target to the apparent center of the Sun (at
+reflection time on the target) and the apparent vector from target to the
+observer at print-time. Slightly different from true PHASE ANGLE (requestable
+separately) at the few arcsecond level in that it includes stellar aberration
+on the down-leg from target to observer.  Units: DEGREES
+ 
+ 'Cnst' =
+   Constellation ID; the 3-letter abbreviation for the name of the
+constellation containing the target centers' astrometric position,
+as defined by IAU (1930) boundary delineation.  See documentation
+for list of abbreviations.
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+
+**************************************************************************************************************************
+

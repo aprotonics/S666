@@ -1,0 +1,12 @@
+Results
+*******************************************************************************
+ Revised: Aug 08, 2019              Daphnis / (Saturn)                      635
+
+ Radii (IAU2015): 4.6 x 4.5 x 2.8 km
+
+ Solution based on all data including Cassini reported through September 2018
+ Trajectory is valid only for the interval spanned by Cassini data.
+*******************************************************************************
+
+No ephemeris for target "Daphnis" after A.D. 2018-JAN-16 23:58:50.8156 UT
+
